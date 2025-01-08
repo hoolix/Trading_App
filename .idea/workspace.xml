@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15e28481-95e3-48ea-ba40-c114cbf89dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Instruction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Market.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/MarketRow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/MobileApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Trend.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/app-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/appstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/chart-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/chart-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coin-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/connect-line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/googleplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instruction-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instruction-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instruction-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/instruction-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/readme-images/desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rKaJHjmr8EgzGeZd0cGx7tD893" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Project/react-native/trading-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "D:\\Project\\react-native\\trading-web\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\react-native\trading-web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\react-native\trading-web\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e28481-95e3-48ea-ba40-c114cbf89dd5" name="Changes" comment="" />
+      <created>1736310146664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736310146664</updated>
+      <workItem from="1736310147907" duration="22381000" />
+      <workItem from="1736333983379" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
