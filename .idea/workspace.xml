@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15e28481-95e3-48ea-ba40-c114cbf89dd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Instruction.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Market.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/MarketRow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/MobileApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Trend.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/app-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/appstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chart-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chart-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/coin-8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/connect-line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/googleplay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hero-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/instruction-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/instruction-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/instruction-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/instruction-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/readme-images/desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="15e28481-95e3-48ea-ba40-c114cbf89dd5" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hoolix"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hoolix/Trading_App.git",
+    "accountId": "d99ae265-d962-4c50-a660-d547b815c9ac"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -65,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Project/react-native/trading-app",
+    "last_opened_file_path": "D:/Project/react-native/trading-app/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\react-native\trading-app\assets" />
       <recent name="D:\Project\react-native\trading-web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -100,11 +80,24 @@
       <option name="presentableId" value="Default" />
       <updated>1736310146664</updated>
       <workItem from="1736310147907" duration="22381000" />
-      <workItem from="1736333983379" duration="725000" />
+      <workItem from="1736333983379" duration="2408000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1736334985369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736334985369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
